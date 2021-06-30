@@ -1,0 +1,48 @@
+[18-Jun-2021 10:07:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/app.php on line 16
+[18-Jun-2021 10:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/broadcasting.php on line 18
+[18-Jun-2021 10:08:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/cache.php on line 21
+[18-Jun-2021 10:08:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/database.php on line 18
+[18-Jun-2021 10:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/filesystems.php on line 16
+[18-Jun-2021 10:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/hashing.php on line 32
+[18-Jun-2021 10:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/logging.php on line 20
+[18-Jun-2021 10:08:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/mail.php on line 16
+[18-Jun-2021 10:08:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/queue.php on line 16
+[18-Jun-2021 10:08:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/services.php on line 18
+[18-Jun-2021 10:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digisoftsol/public_html/deltastar.ae/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/session.php on line 21
+[18-Jun-2021 10:09:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/digisoftsol/public_html/deltastar.ae/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/config/view.php on line 17
